@@ -15,6 +15,7 @@ w5 we move five squares west
 e4 we move four squares east\n
 The maze is only saved if you haven't won. You can continue next time.
 You must choose a maze at the first start or after a victory.
+To start the game, run the roboc.py file
 
 ------ french version -------
 Bienvenue dans le jeu du Labyrinthe.
@@ -33,3 +34,4 @@ w5 : déplacement de cinq cases vers l'Ouest
 e4 : déplacement de quatre cases vers l'Est
 La progression dans le labyrinthe est sauvegardée uniquement si vous n'avez pas encore gagné. Vous pourrez continuer la partie suivante.
 Vous devez choisir un labyrinthe au début de votre première partie ou après une victoire.
+Pour démarrer le jeu, exécutez le fichier roboc.py
